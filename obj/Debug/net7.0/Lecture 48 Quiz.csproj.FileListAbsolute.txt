@@ -1,0 +1,15 @@
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\Lecture 48 Quiz.csproj.AssemblyReference.cache
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\Lecture 48 Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\Lecture 48 Quiz.AssemblyInfoInputs.cache
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\Lecture 48 Quiz.AssemblyInfo.cs
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\Lecture 48 Quiz.csproj.CoreCompileInputs.cache
+D:\6.UdemyPortfolio\Lecture 48 Quiz\bin\Debug\net7.0\Lecture 48 Quiz.exe
+D:\6.UdemyPortfolio\Lecture 48 Quiz\bin\Debug\net7.0\Lecture 48 Quiz.deps.json
+D:\6.UdemyPortfolio\Lecture 48 Quiz\bin\Debug\net7.0\Lecture 48 Quiz.runtimeconfig.json
+D:\6.UdemyPortfolio\Lecture 48 Quiz\bin\Debug\net7.0\Lecture 48 Quiz.dll
+D:\6.UdemyPortfolio\Lecture 48 Quiz\bin\Debug\net7.0\Lecture 48 Quiz.pdb
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\Lecture 48 Quiz.dll
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\refint\Lecture 48 Quiz.dll
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\Lecture 48 Quiz.pdb
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\Lecture 48 Quiz.genruntimeconfig.cache
+D:\6.UdemyPortfolio\Lecture 48 Quiz\obj\Debug\net7.0\ref\Lecture 48 Quiz.dll
